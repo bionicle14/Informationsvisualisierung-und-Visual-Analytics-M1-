@@ -8,10 +8,10 @@ Hier finden Sie alle relevanten Informationen, Ergebnisse und Materialien zu uns
 ## Inhaltsverzeichnis
 ### Forschungsbericht
 Ein ausführlicher Forschungsbericht mit detaillierten Analysen und Erkenntnissen steht Ihnen hier zur Verfügung:
-👉 Forschungsbericht [Forschungsbericht](M1%20Forschungsbeitrag_Data%20Storytelling.pdf)
+👉 [Forschungsbericht](M1%20Forschungsbeitrag_Data%20Storytelling.pdf)
 
 ### Datensätze und Materialien
-- Datensätze: Zugriff auf die von uns verwendeten Roh- und bereinigten Daten unter (/Daten).
+- Datensätze: Zugriff auf die von uns verwendeten Roh- und bereinigten Daten unter (Daten). 
 - Fragebögen: Enthält die Umfragen und deren vollständige Auswertungen unter (/Umfrage) und (/Auswertung). 
 
 ### Visualisierungs-Webseiten
@@ -20,5 +20,6 @@ Unsere Visualisierungen sind auf zwei interaktiven Webseiten verfügbar:
 - Ohne Data Storytelling: https://observablehq.com/d/cd4246c7ac9ebb64
 
 ### Wissenschaftliches Poster
+👉 [Poster](M1%20wissenschaftliches%20Poster_Data%20Storytelling.pdf)
 
 Dieses Repository bietet Ihnen die Möglichkeit, die Hintergründe unserer Informationsvisualisierungen und deren Anwendung in der Praxis besser zu verstehen. Erkunden Sie die Inhalte, um mehr über unsere Arbeit zu erfahren! 😊
