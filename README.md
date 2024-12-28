@@ -23,4 +23,6 @@ Unsere Visualisierungen sind auf zwei interaktiven Webseiten verfügbar:
 Unser wissenschaftliches Poster fasst die Kernergebnisse unseres Projekts kompakt zusammen:
 👉 [Poster](M1%20wissenschaftliches%20Poster_Data%20Storytelling.pdf)
 
+----------
+
 Dieses Repository bietet eine umfassende Übersicht über die Hintergründe, Methoden und Anwendungen unserer Informationsvisualisierungen. Erkunden Sie die Inhalte, um mehr über unsere Arbeit zu erfahren! 😊
