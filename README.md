@@ -12,8 +12,7 @@ Ein ausführlicher Forschungsbericht mit detaillierten Analysen und Erkenntnisse
 
 ### Datensätze und Materialien
 - Datensätze: Zugriff auf die von uns verwendeten Roh- und bereinigten Daten unter [Daten](Daten)
-
-- Fragebögen: Enthält die Umfragen und deren vollständige Auswertungen unter (/Umfrage) und (/Auswertung). 
+- Fragebögen: Enthält die Umfragen und deren vollständige Auswertungen unter [Fragebogen](Fragebogen) und [Umfrage](Umfrage)
 
 ### Visualisierungs-Webseiten
 Unsere Visualisierungen sind auf zwei interaktiven Webseiten verfügbar:
