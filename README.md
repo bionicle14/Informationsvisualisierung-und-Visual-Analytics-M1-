@@ -8,9 +8,8 @@ Hier finden Sie alle relevanten Informationen, Ergebnisse und Materialien zu uns
 ## Inhaltsverzeichnis
 ### Forschungsbericht
 Ein ausführlicher Forschungsbericht mit detaillierten Analysen und Erkenntnissen steht Ihnen hier zur Verfügung:
-👉 Forschungsbericht [Forschungsbericht](/Informationsvisualisierung-und-Visual-Analytics-M1-/M1 Forschungsbeitrag_Data Storytelling.pdf). 
+👉 Forschungsbericht [Forschungsbericht](Informationsvisualisierung-und-Visual-Analytics-M1-/M1%20Forschungsbeitrag_Data%20Storytelling.pdf)
 
- 
 ### Datensätze und Materialien
 - Datensätze: Zugriff auf die von uns verwendeten Roh- und bereinigten Daten unter (/Daten).
 - Fragebögen: Enthält die Umfragen und deren vollständige Auswertungen unter (/Umfrage) und (/Auswertung). 
